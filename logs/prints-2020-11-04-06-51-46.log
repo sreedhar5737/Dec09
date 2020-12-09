@@ -1,0 +1,9 @@
+06:47:54.256 [main] FATAL pack.fblogin - this is fatal message
+06:47:54.320 [main] DEBUG pack.fblogin - this is debug
+06:50:36.915 [main] INFO  pack.fblogin - this is info message
+06:50:36.917 [main] ERROR pack.fblogin - this is error messsage
+06:50:36.917 [main] TRACE pack.fblogin - this is trace message
+06:50:36.917 [main] FATAL pack.fblogin - this is fatal message
+06:50:36.917 [main] DEBUG pack.fblogin - this is debug
+06:51:46.041 [main] INFO  pack.fblogin - this is info message
+06:51:46.063 [main] ERROR pack.fblogin - this is error messsage

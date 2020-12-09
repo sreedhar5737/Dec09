@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-04T06:51:35 IST" name="Suite" finished-at="2020-11-04T06:51:48 IST" duration-ms="12297">
+    <groups>
+    </groups>
+    <test started-at="2020-11-04T06:51:35 IST" name="Test" finished-at="2020-11-04T06:51:48 IST" duration-ms="12297">
+      <class name="pack.fblogin">
+        <test-method signature="facebooktest()[pri:0, instance:pack.fblogin@5286c33a]" started-at="2020-11-04T06:51:35 IST" name="facebooktest" finished-at="2020-11-04T06:51:47 IST" duration-ms="11748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebooktest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:pack.fblogin@5286c33a]" started-at="2020-11-04T06:51:47 IST" name="close" finished-at="2020-11-04T06:51:48 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- pack.fblogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-30T20:57:37 IST" name="Suite" finished-at="2020-11-30T20:57:50 IST" duration-ms="12556">
+    <groups>
+    </groups>
+    <test started-at="2020-11-30T20:57:37 IST" name="Test" finished-at="2020-11-30T20:57:50 IST" duration-ms="12556">
+      <class name="pack.fblogin">
+        <test-method is-config="true" signature="getreportdata()[pri:0, instance:pack.fblogin@8317c52]" started-at="2020-11-30T20:57:37 IST" name="getreportdata" finished-at="2020-11-30T20:57:38 IST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getreportdata -->
+        <test-method signature="facebooktest()[pri:0, instance:pack.fblogin@8317c52]" started-at="2020-11-30T20:57:38 IST" name="facebooktest" finished-at="2020-11-30T20:57:50 IST" duration-ms="11531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebooktest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:pack.fblogin@8317c52]" started-at="2020-11-30T20:57:50 IST" name="close" finished-at="2020-11-30T20:57:50 IST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="closee()[pri:0, instance:pack.fblogin@8317c52]" started-at="2020-11-30T20:57:50 IST" name="closee" finished-at="2020-11-30T20:57:51 IST" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closee -->
+      </class> <!-- pack.fblogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

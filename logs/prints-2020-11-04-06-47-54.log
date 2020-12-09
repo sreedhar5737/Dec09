@@ -1,0 +1,8 @@
+06:47:02.384 [main] INFO  pack.fblogin - this is info message
+06:47:02.391 [main] ERROR pack.fblogin - this is error messsage
+06:47:02.392 [main] TRACE pack.fblogin - this is trace message
+06:47:02.392 [main] FATAL pack.fblogin - this is fatal message
+06:47:02.392 [main] DEBUG pack.fblogin - this is debug
+06:47:54.241 [main] INFO  pack.fblogin - this is info message
+06:47:54.255 [main] ERROR pack.fblogin - this is error messsage
+06:47:54.256 [main] TRACE pack.fblogin - this is trace message
